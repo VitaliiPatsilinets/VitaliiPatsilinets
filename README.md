@@ -81,7 +81,7 @@
 
 <h2>Test Artifacts</h2>
 <ul>
-  <li><a href="https://github.com/osukhorukova/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
+  <li><a href="https://github.com/VitaliiPatsilinets/-.git">Webshop Testing</a> – исследовательское и функциональное тестирование</li>
   <li><a href="https://github.com/VitaliiPatsilinets/API-Testing-.git">API Testing</a> – REST и SOAP тестирование в Postman</li>
   <li><a href="https://github.com/VitaliiPatsilinets/SQL.git">MySQL</a> – SQL запросы и сценарии проверки BD</li>
   <li><a href="https://github.com/osukhorukova/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
