@@ -84,11 +84,8 @@
   <li><a href="https://github.com/VitaliiPatsilinets/-.git">Webshop Testing</a> – исследовательское и функциональное тестирование</li>
   <li><a href="https://github.com/VitaliiPatsilinets/API-Testing-.git">API Testing</a> – REST и SOAP тестирование в Postman</li>
   <li><a href="https://github.com/VitaliiPatsilinets/SQL.git">MySQL</a> – SQL запросы и сценарии проверки BD</li>
-  <li><a href="https://github.com/osukhorukova/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
-  <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
-  <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
-  <li><a href="https://github.com/osukhorukova/bash">Bash</a> – scripts for QA tasks</li>
-  <li><a href="https://github.com/osukhorukova/git">Git</a> – basic version control commands</li>
+  <li><a href="https://github.com/VitaliiPatsilinets/MongoDB.git">MongoDB</a> – NoSQL запросы и упражнения</li>
+  <li><a href="https://github.com/VitaliiPatsilinets/Bash.git">Bash</a> – запросы для QA</li>
 </ul>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
