@@ -88,4 +88,3 @@
   <li><a href="https://github.com/VitaliiPatsilinets/Bash.git">Bash</a> – запросы для QA</li>
 </ul>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
